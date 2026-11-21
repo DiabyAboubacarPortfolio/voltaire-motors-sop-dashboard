@@ -108,13 +108,13 @@ Built in Power BI. One page per S&OP step, plus a landing page.
 ```
 voltaire-motors-sop-dashboard/
 ├── dashboard/      # .pbix file and Power BI theme
-├── images/         # dashboard screenshots used in this README
+├── Screenshots/         # dashboard screenshots used in this README
 ├── scripts/        # Python pipeline (raw, staging, curated) and config.py
 ├── requirements.txt
 └── README.md
 ```
 
-The generated CSV files are not stored in the repository: the scripts recreate them, and the .pbix already contains the data. To open the dashboard, download the .pbix and open it with Power BI Desktop (free, Windows).
+To open the dashboard, download the .pbix and open it with Power BI Desktop (free, Windows).
 
 
 ## About
