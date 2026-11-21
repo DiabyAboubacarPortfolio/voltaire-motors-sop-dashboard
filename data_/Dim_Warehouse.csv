@@ -1,0 +1,7 @@
+warehouse_id,warehouse_name,warehouse_type,country,region,supplying_plant_id
+HUB-01,Hub Columbus,Regional hub,USA,North America,USN-01
+HUB-02,Hub São Paulo,Regional hub,Brazil,Latin America,USN-01
+HUB-03,Hub Barcelona,Regional hub,Spain,South West Europe,USN-02
+HUB-04,Hub Hamburg,Regional hub,Germany,North/East/Central Europe,USN-02
+HUB-05,Hub Shanghai,Regional hub,China,APAC,USN-03
+HUB-06,Hub Dubai,Regional hub,UAE,MEA,USN-02

@@ -1,0 +1,13 @@
+config_id,model,vehicle_segment,trim,battery_capacity_kwh,transmission,range_km,list_price_usd,launch_date,end_of_sale_date
+CFG-001,Aria,Compact sedan,Essential,52,Rwd,410,32900,2020-09-01,2024-11-30
+CFG-002,Aria,Compact sedan,Comfort,64,Rwd,520,37900,2020-09-01,
+CFG-003,Aria,Compact sedan,Premium,64,Awd,490,43900,2021-06-01,
+CFG-004,Aria,Compact sedan,Premium Plus,82,Awd,610,49900,2023-02-01,
+CFG-005,Orion,Mid-size SUV,Essential,60,Rwd,400,41900,2022-01-15,
+CFG-006,Orion,Mid-size SUV,Comfort,75,Rwd,480,46900,2021-09-15,
+CFG-007,Orion,Mid-size SUV,Premium,75,Awd,455,52900,2021-09-15,
+CFG-008,Orion,Mid-size SUV,Premium Plus,95,Awd,560,58900,2022-05-01,
+CFG-009,Orion,Mid-size SUV,Sport,95,Awd,530,66900,2023-09-01,
+CFG-010,Atlas,Pickup truck,Essential,100,Rwd,520,54900,2023-03-15,
+CFG-011,Atlas,Pickup truck,Comfort,100,Awd,500,62900,2023-03-15,
+CFG-012,Atlas,Pickup truck,Premium,130,Awd,640,76900,2024-01-15,

@@ -1,0 +1,91 @@
+salesperson_id,salesperson_name,sales_manager_id,sales_manager_name,region,sales_director_name
+COM-001,Ines Moreau,MGR-01,Thomas Bernard,North America,Carlos Martin
+COM-002,Julia Dubois,MGR-01,Thomas Bernard,North America,Carlos Martin
+COM-003,Chloé Tanaka,MGR-01,Thomas Bernard,North America,Carlos Martin
+COM-004,Leila Khan,MGR-01,Thomas Bernard,North America,Carlos Martin
+COM-005,Victor Schmidt,MGR-01,Thomas Bernard,North America,Carlos Martin
+COM-006,Thomas Khan,MGR-01,Thomas Bernard,North America,Carlos Martin
+COM-007,Leila Okafor,MGR-02,Mei Hughes,North America,Carlos Martin
+COM-008,Mei Chen,MGR-02,Mei Hughes,North America,Carlos Martin
+COM-009,Liam Fischer,MGR-02,Mei Hughes,North America,Carlos Martin
+COM-010,Noah Costa,MGR-02,Mei Hughes,North America,Carlos Martin
+COM-011,Yuki Schmidt,MGR-02,Mei Hughes,North America,Carlos Martin
+COM-012,Mateo Ivanov,MGR-02,Mei Hughes,North America,Carlos Martin
+COM-013,Aiko Schmidt,MGR-03,Ivan Weber,North America,Carlos Martin
+COM-014,Noah Kowalski,MGR-03,Ivan Weber,North America,Carlos Martin
+COM-015,Victor Silva,MGR-03,Ivan Weber,North America,Carlos Martin
+COM-016,Yuki Okafor,MGR-03,Ivan Weber,North America,Carlos Martin
+COM-017,Noah Dubois,MGR-03,Ivan Weber,North America,Carlos Martin
+COM-018,Noah Weber,MGR-04,Lucas Ali,North America,Carlos Martin
+COM-019,Jonas Hughes,MGR-04,Lucas Ali,North America,Carlos Martin
+COM-020,Thomas Moreau,MGR-04,Lucas Ali,North America,Carlos Martin
+COM-021,Ahmed Weber,MGR-04,Lucas Ali,North America,Carlos Martin
+COM-022,Emma Leroy,MGR-04,Lucas Ali,North America,Carlos Martin
+COM-023,Julia Dubois,MGR-04,Lucas Ali,North America,Carlos Martin
+COM-024,Daniel Weber,MGR-05,Carlos Mendes,Latin America,Mateo Tanaka
+COM-025,Mei Nielsen,MGR-05,Carlos Mendes,Latin America,Mateo Tanaka
+COM-026,Carlos Mendes,MGR-05,Carlos Mendes,Latin America,Mateo Tanaka
+COM-027,Emma Schmidt,MGR-05,Carlos Mendes,Latin America,Mateo Tanaka
+COM-028,Victor Khan,MGR-05,Carlos Mendes,Latin America,Mateo Tanaka
+COM-029,Mateo Lopez,MGR-06,Jonas Kowalski,Latin America,Mateo Tanaka
+COM-030,Lucas Costa,MGR-06,Jonas Kowalski,Latin America,Mateo Tanaka
+COM-031,Thomas Moreau,MGR-06,Jonas Kowalski,Latin America,Mateo Tanaka
+COM-032,Clara Petrov,MGR-06,Jonas Kowalski,Latin America,Mateo Tanaka
+COM-033,Jonas Novak,MGR-06,Jonas Kowalski,Latin America,Mateo Tanaka
+COM-034,Fatima Bernard,Unknown,Jonas Weber,South West Europe,Clara Novak
+COM-035,Victor Moreau,MGR-07,Jonas Weber,South West Europe,Clara Novak
+COM-036,Nadia Chen,MGR-07,Jonas Weber,South West Europe,Clara Novak
+COM-037,Leila Costa,MGR-07,Jonas Weber,South West Europe,Clara Novak
+COM-038,Jonas Lopez,MGR-07,Jonas Weber,South West Europe,Clara Novak
+COM-039,Amira Leroy,MGR-08,Aiko Sato,South West Europe,Clara Novak
+COM-040,Victor Moreau,MGR-08,Aiko Sato,South West Europe,Clara Novak
+COM-041,Sofia Khan,MGR-08,Aiko Sato,South West Europe,Clara Novak
+COM-042,Emma Leroy,MGR-08,Aiko Sato,South West Europe,Clara Novak
+COM-043,Julia Okafor,MGR-08,Aiko Sato,South West Europe,Clara Novak
+COM-044,Ahmed Rossi,MGR-09,Victor Nielsen,South West Europe,Clara Novak
+COM-045,Sofia Martin,MGR-09,Victor Nielsen,South West Europe,Clara Novak
+COM-046,Jonas Lopez,MGR-09,Victor Nielsen,South West Europe,Clara Novak
+COM-047,Ahmed Wang,MGR-09,Victor Nielsen,South West Europe,Clara Novak
+COM-048,Liam Garcia,MGR-10,Ahmed Novak,North/East/Central Europe,Samir Martin
+COM-049,Oliver Chen,MGR-10,Ahmed Novak,North/East/Central Europe,Samir Martin
+COM-050,Hugo Tanaka,MGR-10,Ahmed Novak,North/East/Central Europe,Samir Martin
+COM-051,Ivan Wang,MGR-10,Ahmed Novak,North/East/Central Europe,Samir Martin
+COM-052,Aiko Dubois,MGR-11,Amira Chen,North/East/Central Europe,Samir Martin
+COM-053,Liam Novak,MGR-11,Amira Chen,North/East/Central Europe,Samir Martin
+COM-054,Elena Petrov,MGR-11,Amira Chen,North/East/Central Europe,Samir Martin
+COM-055,Carlos Okafor,MGR-11,Amira Chen,North/East/Central Europe,Samir Martin
+COM-056,Julia Weber,MGR-12,Liam Mendes,North/East/Central Europe,Samir Martin
+COM-057,Julia Schmidt,Unknown,Liam Mendes,North/East/Central Europe,Samir Martin
+COM-058,Fatima Tanaka,MGR-12,Liam Mendes,North/East/Central Europe,Samir Martin
+COM-059,Emma Dubois,MGR-12,Liam Mendes,North/East/Central Europe,Samir Martin
+COM-060,Julia Sato,MGR-13,Hugo Leroy,North/East/Central Europe,Samir Martin
+COM-061,Emma Dubois,MGR-13,Hugo Leroy,North/East/Central Europe,Samir Martin
+COM-062,Lucas Martin,MGR-13,Hugo Leroy,North/East/Central Europe,Samir Martin
+COM-063,Mateo Kowalski,MGR-13,Hugo Leroy,North/East/Central Europe,Samir Martin
+COM-064,Lucas Dubois,MGR-13,Hugo Leroy,North/East/Central Europe,Samir Martin
+COM-065,Hugo Rahman,MGR-14,Julia Martin,APAC,Ines Leroy
+COM-066,Thomas Hughes,MGR-14,Julia Martin,APAC,Ines Leroy
+COM-067,Clara Fischer,MGR-14,Julia Martin,APAC,Ines Leroy
+COM-068,Mateo Silva,MGR-14,Julia Martin,APAC,Ines Leroy
+COM-069,Daniel Dubois,MGR-15,Nadia Okafor,APAC,Ines Leroy
+COM-070,Emma Fischer,MGR-15,Nadia Okafor,APAC,Ines Leroy
+COM-071,Aiko Mendes,MGR-15,Nadia Okafor,APAC,Ines Leroy
+COM-072,Liam Bernard,MGR-15,Nadia Okafor,APAC,Ines Leroy
+COM-073,Marco Fischer,MGR-15,Nadia Okafor,APAC,Ines Leroy
+COM-074,Fatima Ali,MGR-15,Nadia Okafor,APAC,Ines Leroy
+COM-075,Marco Silva,MGR-16,Julia Kowalski,APAC,Ines Leroy
+COM-076,Emma Dubois,MGR-16,Julia Kowalski,APAC,Ines Leroy
+COM-077,Elena Sato,MGR-16,Julia Kowalski,APAC,Ines Leroy
+COM-078,Samir Schmidt,MGR-16,Julia Kowalski,APAC,Ines Leroy
+COM-079,Marco Schmidt,MGR-16,Julia Kowalski,APAC,Ines Leroy
+COM-080,Yuki Ali,MGR-16,Julia Kowalski,APAC,Ines Leroy
+COM-081,Nadia Bernard,MGR-17,Mei Fischer,MEA,Samir Ali
+COM-082,Noah Novak,MGR-17,Mei Fischer,MEA,Samir Ali
+COM-083,Nadia Dubois,MGR-17,Mei Fischer,MEA,Samir Ali
+COM-084,Chloé Leroy,MGR-17,Mei Fischer,MEA,Samir Ali
+COM-085,Marco Wang,MGR-17,Mei Fischer,MEA,Samir Ali
+COM-086,Ivan Weber,MGR-18,Priya Dubois,MEA,Samir Ali
+COM-087,Lucas Hughes,MGR-18,Priya Dubois,MEA,Samir Ali
+COM-088,Sofia Martin,MGR-18,Priya Dubois,MEA,Samir Ali
+COM-089,Clara Mendes,MGR-18,Priya Dubois,MEA,Samir Ali
+COM-090,Ivan Schmidt,MGR-18,Priya Dubois,MEA,Samir Ali

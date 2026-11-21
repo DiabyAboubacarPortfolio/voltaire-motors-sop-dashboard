@@ -1,0 +1,8 @@
+plant_id,plant_name,country,region,start_date,models_produced
+USN-01,Giga Ohio,USA,North America,2019-06-01,Aria
+USN-01,Giga Ohio,USA,North America,2019-06-01,Orion
+USN-01,Giga Ohio,USA,North America,2019-06-01,Atlas
+USN-02,Giga Silesia,Poland,North/East/Central Europe,2020-03-01,Aria
+USN-02,Giga Silesia,Poland,North/East/Central Europe,2020-03-01,Orion
+USN-03,Giga Guangzhou,China,APAC,2020-11-01,Aria
+USN-03,Giga Guangzhou,China,APAC,2020-11-01,Orion
