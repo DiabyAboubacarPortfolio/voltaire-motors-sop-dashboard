@@ -4,7 +4,7 @@ An end-to-end Sales & Operations Planning project for a fictional electric vehic
 
 Built as a portfolio project to show how an S&OP team turns scattered operational data into one version of the truth, clear exceptions, and decisions, following the APICS/ASCM S&OP process.
 
-![S&OP Summary](images/05_sop_summary.png)
+![S&OP Summary](Screenshots/05_sop_summary.png)
 
 
 ## Business context
@@ -51,7 +51,7 @@ Each table follows the same three-script pattern (raw, staging, curated), so eve
 |---|---|
 | Customer Orders, Demand Forecast, Production Plan, Production Actual, Finished Vehicle Stock | Calendar, Customer, Vehicle Configuration, Plant, Warehouse, Salesperson |
 
-![Data model](images/06_data_model.png)
+![Data model](Screenshots/06_data_model.png)
 
 
 ## Dashboard
@@ -68,11 +68,11 @@ Built in Power BI. One page per S&OP step, plus a landing page.
 
 5. S&OP Summary - financial impact, one status per pillar (OK / Warning / NOK), the monthly status history, and the key decisions for the cycle
 
-![Overview](images/01_overview.png)
-![Demand Review](images/02_demand_review.png)
-![Supply Review](images/03_supply_review.png)
-![Reconciliation / Pre-S&OP](images/04_reconciliation.png)
-![S&OP Summary](images/05_sop_summary.png)
+![Overview](Screenshots/01_overview.png)
+![Demand Review](Screenshots/02_demand_review.png)
+![Supply Review](Screenshots/03_supply_review.png)
+![Reconciliation / Pre-S&OP](Screenshots/04_reconciliation.png)
+![S&OP Summary](Screenshots/05_sop_summary.png)
 
 
 ## Methodology notes
