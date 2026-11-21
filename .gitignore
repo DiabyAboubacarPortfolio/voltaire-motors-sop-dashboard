@@ -1,19 +1,19 @@
-# Generated data (recreated by the scripts, and already inside the .pbix)
+# Local pipeline output (raw, staging, curated), recreated by the scripts
+# The published tables are in data_/
 data/
-*.csv
- 
+
 # Python
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
- 
+
 # Secrets and local settings
 .env
 .vscode/
- 
+
 # Power BI temporary files
 ~$*
- 
+
 # OS files
 .DS_Store
 Thumbs.db
