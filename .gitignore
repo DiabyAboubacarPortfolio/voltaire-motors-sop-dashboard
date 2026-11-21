@@ -1,0 +1,20 @@
+# Generated data (recreated by the scripts, and already inside the .pbix)
+data/
+*.csv
+ 
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+ 
+# Secrets and local settings
+.env
+.vscode/
+ 
+# Power BI temporary files
+~$*
+ 
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
